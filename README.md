@@ -1,6 +1,8 @@
-# TypingDNA demos
+# Keystroke Recognition
 
+This project contains fixed and free text demos for keystroke recognition using the TypingDNA API. API keys using a free account are already provided in the config files.
 
- Browse TypingDNA implementations for various use cases.
-
- Follow the steps presented in this [video](https://www.youtube.com/watch?v=BiZTl0tvOsQ) to get started with the demos.
+1. Make sure NodeJS is installed on your computer
+2. Navigate to the `fixed` folder and run `npm install`
+3. Run `npm start` and go to `localhost:3000` in your browser
+4. Repeat the steps in the `free` folder
